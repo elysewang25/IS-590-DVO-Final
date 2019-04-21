@@ -1,0 +1,2410 @@
+[
+  {
+    "World_Rank": 1,
+    "University_Name": "Harvard University",
+    "Country": "United States of America",
+    "Total_Score": 96.1,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 2,
+    "University_Name": "California Institute of Technology",
+    "Country": "United States of America",
+    "Total_Score": 96,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 3,
+    "University_Name": "Massachusetts Institute of Technology",
+    "Country": "United States of America",
+    "Total_Score": 95.6,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 4,
+    "University_Name": "Stanford University",
+    "Country": "United States of America",
+    "Total_Score": 94.3,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 5,
+    "University_Name": "Princeton University",
+    "Country": "United States of America",
+    "Total_Score": 94.2,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 6,
+    "University_Name": "University of Cambridge",
+    "Country": "United Kingdom",
+    "Total_Score": 91.2,
+    "Year": "2011",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 6,
+    "University_Name": "University of Oxford",
+    "Country": "United Kingdom",
+    "Total_Score": 91.2,
+    "Year": "2011",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 8,
+    "University_Name": "University of California, Berkeley",
+    "Country": "United States of America",
+    "Total_Score": 91.1,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 9,
+    "University_Name": "Imperial College London",
+    "Country": "United Kingdom",
+    "Total_Score": 90.6,
+    "Year": "2011",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 10,
+    "University_Name": "Yale University",
+    "Country": "United States of America",
+    "Total_Score": 89.5,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 11,
+    "University_Name": "University of California, Los Angeles",
+    "Country": "United States of America",
+    "Total_Score": 87.7,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 12,
+    "University_Name": "University of Chicago",
+    "Country": "United States of America",
+    "Total_Score": 86.9,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 13,
+    "University_Name": "Johns Hopkins University",
+    "Country": "United States of America",
+    "Total_Score": 86.4,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 14,
+    "University_Name": "Cornell University",
+    "Country": "United States of America",
+    "Total_Score": 83.9,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 15,
+    "University_Name": "ETH Zurich \u00e2\u0080\u0093 Swiss Federal Institute of Technology Zurich",
+    "Country": "Switzerland",
+    "Total_Score": 83.4,
+    "Year": "2011",
+    "country_id": 12
+  },
+  {
+    "World_Rank": 15,
+    "University_Name": "University of Michigan",
+    "Country": "United States of America",
+    "Total_Score": 83.4,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 17,
+    "University_Name": "University of Toronto",
+    "Country": "Canada",
+    "Total_Score": 82,
+    "Year": "2011",
+    "country_id": 2
+  },
+  {
+    "World_Rank": 18,
+    "University_Name": "Columbia University",
+    "Country": "United States of America",
+    "Total_Score": 81,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 19,
+    "University_Name": "University of Pennsylvania",
+    "Country": "United States of America",
+    "Total_Score": 79.5,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 20,
+    "University_Name": "Carnegie Mellon University",
+    "Country": "United States of America",
+    "Total_Score": 79.3,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 21,
+    "University_Name": "University of Hong Kong",
+    "Country": "Hong Kong",
+    "Total_Score": 79.2,
+    "Year": "2011",
+    "country_id": 6
+  },
+  {
+    "World_Rank": 22,
+    "University_Name": "University College London",
+    "Country": "United Kingdom",
+    "Total_Score": 78.4,
+    "Year": "2011",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 23,
+    "University_Name": "University of Washington",
+    "Country": "United States of America",
+    "Total_Score": 78,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 24,
+    "University_Name": "Duke University",
+    "Country": "United States of America",
+    "Total_Score": 76.5,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 25,
+    "University_Name": "Northwestern University",
+    "Country": "United States of America",
+    "Total_Score": 75.9,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 26,
+    "University_Name": "University of Tokyo",
+    "Country": "Japan",
+    "Total_Score": 75.6,
+    "Year": "2011",
+    "country_id": 7
+  },
+  {
+    "World_Rank": 27,
+    "University_Name": "Georgia Institute of Technology",
+    "Country": "United States of America",
+    "Total_Score": 75.3,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 28,
+    "University_Name": "Pohang University of Science and Technology",
+    "Country": "South Korea",
+    "Total_Score": 75.1,
+    "Year": "2011",
+    "country_id": 10
+  },
+  {
+    "World_Rank": 29,
+    "University_Name": "University of California, Santa Barbara",
+    "Country": "United States of America",
+    "Total_Score": 75,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 30,
+    "University_Name": "University of British Columbia",
+    "Country": "Canada",
+    "Total_Score": 73.8,
+    "Year": "2011",
+    "country_id": 2
+  },
+  {
+    "World_Rank": 30,
+    "University_Name": "University of North Carolina at Chapel Hill",
+    "Country": "United States of America",
+    "Total_Score": 73.8,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 32,
+    "University_Name": "University of California, San Diego",
+    "Country": "United States of America",
+    "Total_Score": 73.2,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 33,
+    "University_Name": "University of Illinois at Urbana-Champaign",
+    "Country": "United States of America",
+    "Total_Score": 73,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 34,
+    "University_Name": "National University of Singapore",
+    "Country": "Singapore",
+    "Total_Score": 72.9,
+    "Year": "2011",
+    "country_id": 9
+  },
+  {
+    "World_Rank": 35,
+    "University_Name": "McGill University",
+    "Country": "Canada",
+    "Total_Score": 71.7,
+    "Year": "2011",
+    "country_id": 2
+  },
+  {
+    "World_Rank": 36,
+    "University_Name": "University of Melbourne",
+    "Country": "Australia",
+    "Total_Score": 71,
+    "Year": "2011",
+    "country_id": 0
+  },
+  {
+    "World_Rank": 37,
+    "University_Name": "Peking University",
+    "Country": "China",
+    "Total_Score": 70.7,
+    "Year": "2011",
+    "country_id": 3
+  },
+  {
+    "World_Rank": 38,
+    "University_Name": "Washington University in St Louis",
+    "Country": "United States of America",
+    "Total_Score": 69.9,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 39,
+    "University_Name": "\u00c3\u0089cole Polytechnique",
+    "Country": "France",
+    "Total_Score": 69.5,
+    "Year": "2011",
+    "country_id": 4
+  },
+  {
+    "World_Rank": 40,
+    "University_Name": "University of Edinburgh",
+    "Country": "United Kingdom",
+    "Total_Score": 69.2,
+    "Year": "2011",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 41,
+    "University_Name": "Hong Kong University of Science and Technology",
+    "Country": "Hong Kong",
+    "Total_Score": 69,
+    "Year": "2011",
+    "country_id": 6
+  },
+  {
+    "World_Rank": 42,
+    "University_Name": "\u00c3\u0089cole Normale Sup\u00c3\u00a9rieure",
+    "Country": "France",
+    "Total_Score": 68.6,
+    "Year": "2011",
+    "country_id": 4
+  },
+  {
+    "World_Rank": 43,
+    "University_Name": "Australian National University",
+    "Country": "Australia",
+    "Total_Score": 67,
+    "Year": "2011",
+    "country_id": 0
+  },
+  {
+    "World_Rank": 43,
+    "University_Name": "Karolinska Institute",
+    "Country": "Sweden",
+    "Total_Score": 67,
+    "Year": "2011",
+    "country_id": 11
+  },
+  {
+    "World_Rank": 43,
+    "University_Name": "University of G\u00c3\u00b6ttingen",
+    "Country": "Germany",
+    "Total_Score": 67,
+    "Year": "2011",
+    "country_id": 5
+  },
+  {
+    "World_Rank": 43,
+    "University_Name": "University of Wisconsin",
+    "Country": "United States of America",
+    "Total_Score": 67,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 47,
+    "University_Name": "Rice University",
+    "Country": "United States of America",
+    "Total_Score": 66.9,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 48,
+    "University_Name": "\u00c3\u0089cole Polytechnique F\u00c3\u00a9d\u00c3\u00a9rale de Lausanne",
+    "Country": "Switzerland",
+    "Total_Score": 66.5,
+    "Year": "2011",
+    "country_id": 12
+  },
+  {
+    "World_Rank": 49,
+    "University_Name": "University of California, Irvine",
+    "Country": "United States of America",
+    "Total_Score": 66,
+    "Year": "2011",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 49,
+    "University_Name": "University of Science and Technology of China",
+    "Country": "China",
+    "Total_Score": 66,
+    "Year": "2011",
+    "country_id": 3
+  },
+  {
+    "World_Rank": 1,
+    "University_Name": "California Institute of Technology",
+    "Country": "United States of America",
+    "Total_Score": 94.8,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 2,
+    "University_Name": "Harvard University",
+    "Country": "United States of America",
+    "Total_Score": 93.9,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 2,
+    "University_Name": "Stanford University",
+    "Country": "United States of America",
+    "Total_Score": 93.9,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 4,
+    "University_Name": "University of Oxford",
+    "Country": "United Kingdom",
+    "Total_Score": 93.6,
+    "Year": "2012",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 5,
+    "University_Name": "Princeton University",
+    "Country": "United States of America",
+    "Total_Score": 92.9,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 6,
+    "University_Name": "University of Cambridge",
+    "Country": "United Kingdom",
+    "Total_Score": 92.4,
+    "Year": "2012",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 7,
+    "University_Name": "Massachusetts Institute of Technology",
+    "Country": "United States of America",
+    "Total_Score": 92.3,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 8,
+    "University_Name": "Imperial College London",
+    "Country": "United Kingdom",
+    "Total_Score": 90.7,
+    "Year": "2012",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 9,
+    "University_Name": "University of Chicago",
+    "Country": "United States of America",
+    "Total_Score": 90.2,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 10,
+    "University_Name": "University of California, Berkeley",
+    "Country": "United States of America",
+    "Total_Score": 89.8,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 11,
+    "University_Name": "Yale University",
+    "Country": "United States of America",
+    "Total_Score": 89.1,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 12,
+    "University_Name": "Columbia University",
+    "Country": "United States of America",
+    "Total_Score": 87.5,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 13,
+    "University_Name": "University of California, Los Angeles",
+    "Country": "United States of America",
+    "Total_Score": 87.3,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 14,
+    "University_Name": "Johns Hopkins University",
+    "Country": "United States of America",
+    "Total_Score": 85.8,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 15,
+    "University_Name": "ETH Zurich \u00e2\u0080\u0093 Swiss Federal Institute of Technology Zurich",
+    "Country": "Switzerland",
+    "Total_Score": 85,
+    "Year": "2012",
+    "country_id": 12
+  },
+  {
+    "World_Rank": 16,
+    "University_Name": "University of Pennsylvania",
+    "Country": "United States of America",
+    "Total_Score": 84.9,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 17,
+    "University_Name": "University College London",
+    "Country": "United Kingdom",
+    "Total_Score": 83.2,
+    "Year": "2012",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 18,
+    "University_Name": "University of Michigan",
+    "Country": "United States of America",
+    "Total_Score": 82.8,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 19,
+    "University_Name": "University of Toronto",
+    "Country": "Canada",
+    "Total_Score": 81.6,
+    "Year": "2012",
+    "country_id": 2
+  },
+  {
+    "World_Rank": 20,
+    "University_Name": "Cornell University",
+    "Country": "United States of America",
+    "Total_Score": 80.5,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 21,
+    "University_Name": "Carnegie Mellon University",
+    "Country": "United States of America",
+    "Total_Score": 78.4,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 22,
+    "University_Name": "Duke University",
+    "Country": "United States of America",
+    "Total_Score": 77.4,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 22,
+    "University_Name": "University of British Columbia",
+    "Country": "Canada",
+    "Total_Score": 77.4,
+    "Year": "2012",
+    "country_id": 2
+  },
+  {
+    "World_Rank": 24,
+    "University_Name": "Georgia Institute of Technology",
+    "Country": "United States of America",
+    "Total_Score": 77,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 25,
+    "University_Name": "University of Washington",
+    "Country": "United States of America",
+    "Total_Score": 76.5,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 26,
+    "University_Name": "Northwestern University",
+    "Country": "United States of America",
+    "Total_Score": 76.2,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 27,
+    "University_Name": "University of Wisconsin-Madison",
+    "Country": "United States of America",
+    "Total_Score": 75.8,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 28,
+    "University_Name": "McGill University",
+    "Country": "Canada",
+    "Total_Score": 75.5,
+    "Year": "2012",
+    "country_id": 2
+  },
+  {
+    "World_Rank": 29,
+    "University_Name": "University of Texas at Austin",
+    "Country": "United States of America",
+    "Total_Score": 74.9,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 30,
+    "University_Name": "University of Tokyo",
+    "Country": "Japan",
+    "Total_Score": 74.3,
+    "Year": "2012",
+    "country_id": 7
+  },
+  {
+    "World_Rank": 31,
+    "University_Name": "University of Illinois at Urbana-Champaign",
+    "Country": "United States of America",
+    "Total_Score": 74.2,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 32,
+    "University_Name": "Karolinska Institute",
+    "Country": "Sweden",
+    "Total_Score": 73.1,
+    "Year": "2012",
+    "country_id": 11
+  },
+  {
+    "World_Rank": 33,
+    "University_Name": "University of California, San Diego",
+    "Country": "United States of America",
+    "Total_Score": 73,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 34,
+    "University_Name": "University of Hong Kong",
+    "Country": "Hong Kong",
+    "Total_Score": 72.3,
+    "Year": "2012",
+    "country_id": 6
+  },
+  {
+    "World_Rank": 35,
+    "University_Name": "University of California, Santa Barbara",
+    "Country": "United States of America",
+    "Total_Score": 72.1,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 36,
+    "University_Name": "University of Edinburgh",
+    "Country": "United Kingdom",
+    "Total_Score": 72,
+    "Year": "2012",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 37,
+    "University_Name": "University of Melbourne",
+    "Country": "Australia",
+    "Total_Score": 71.9,
+    "Year": "2012",
+    "country_id": 0
+  },
+  {
+    "World_Rank": 38,
+    "University_Name": "Australian National University",
+    "Country": "Australia",
+    "Total_Score": 71.2,
+    "Year": "2012",
+    "country_id": 0
+  },
+  {
+    "World_Rank": 38,
+    "University_Name": "University of California, Davis",
+    "Country": "United States of America",
+    "Total_Score": 71.2,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 40,
+    "University_Name": "National University of Singapore",
+    "Country": "Singapore",
+    "Total_Score": 70.9,
+    "Year": "2012",
+    "country_id": 9
+  },
+  {
+    "World_Rank": 41,
+    "University_Name": "Washington University in St Louis",
+    "Country": "United States of America",
+    "Total_Score": 70.5,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 42,
+    "University_Name": "University of Minnesota",
+    "Country": "United States of America",
+    "Total_Score": 70,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 43,
+    "University_Name": "University of North Carolina at Chapel Hill",
+    "Country": "United States of America",
+    "Total_Score": 69.3,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 44,
+    "University_Name": "New York University",
+    "Country": "United States of America",
+    "Total_Score": 69,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 45,
+    "University_Name": "LMU Munich",
+    "Country": "Germany",
+    "Total_Score": 67.6,
+    "Year": "2012",
+    "country_id": 5
+  },
+  {
+    "World_Rank": 46,
+    "University_Name": "\u00c3\u0089cole Polytechnique F\u00c3\u00a9d\u00c3\u00a9rale de Lausanne",
+    "Country": "Switzerland",
+    "Total_Score": 66.3,
+    "Year": "2012",
+    "country_id": 12
+  },
+  {
+    "World_Rank": 47,
+    "University_Name": "London School of Economics and Political Science",
+    "Country": "United Kingdom",
+    "Total_Score": 66,
+    "Year": "2012",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 48,
+    "University_Name": "University of Manchester",
+    "Country": "United Kingdom",
+    "Total_Score": 65.7,
+    "Year": "2012",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 49,
+    "University_Name": "Brown University",
+    "Country": "United States of America",
+    "Total_Score": 65.6,
+    "Year": "2012",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 49,
+    "University_Name": "Peking University",
+    "Country": "China",
+    "Total_Score": 65.6,
+    "Year": "2012",
+    "country_id": 3
+  },
+  {
+    "World_Rank": 1,
+    "University_Name": "California Institute of Technology",
+    "Country": "United States of America",
+    "Total_Score": 95.5,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 2,
+    "University_Name": "Stanford University",
+    "Country": "United States of America",
+    "Total_Score": 93.7,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 2,
+    "University_Name": "University of Oxford",
+    "Country": "United Kingdom",
+    "Total_Score": 93.7,
+    "Year": "2013",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 4,
+    "University_Name": "Harvard University",
+    "Country": "United States of America",
+    "Total_Score": 93.6,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 5,
+    "University_Name": "Massachusetts Institute of Technology",
+    "Country": "United States of America",
+    "Total_Score": 93.1,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 6,
+    "University_Name": "Princeton University",
+    "Country": "United States of America",
+    "Total_Score": 92.7,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 7,
+    "University_Name": "University of Cambridge",
+    "Country": "United Kingdom",
+    "Total_Score": 92.6,
+    "Year": "2013",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 8,
+    "University_Name": "Imperial College London",
+    "Country": "United Kingdom",
+    "Total_Score": 90.6,
+    "Year": "2013",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 9,
+    "University_Name": "University of California, Berkeley",
+    "Country": "United States of America",
+    "Total_Score": 90.5,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 10,
+    "University_Name": "University of Chicago",
+    "Country": "United States of America",
+    "Total_Score": 90.4,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 11,
+    "University_Name": "Yale University",
+    "Country": "United States of America",
+    "Total_Score": 89.2,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 12,
+    "University_Name": "ETH Zurich \u00e2\u0080\u0093 Swiss Federal Institute of Technology Zurich",
+    "Country": "Switzerland",
+    "Total_Score": 87.8,
+    "Year": "2013",
+    "country_id": 12
+  },
+  {
+    "World_Rank": 13,
+    "University_Name": "University of California, Los Angeles",
+    "Country": "United States of America",
+    "Total_Score": 87.7,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 14,
+    "University_Name": "Columbia University",
+    "Country": "United States of America",
+    "Total_Score": 87,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 15,
+    "University_Name": "University of Pennsylvania",
+    "Country": "United States of America",
+    "Total_Score": 86.6,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 16,
+    "University_Name": "Johns Hopkins University",
+    "Country": "United States of America",
+    "Total_Score": 85.6,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 17,
+    "University_Name": "University College London",
+    "Country": "United Kingdom",
+    "Total_Score": 85.5,
+    "Year": "2013",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 18,
+    "University_Name": "Cornell University",
+    "Country": "United States of America",
+    "Total_Score": 83.3,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 19,
+    "University_Name": "Northwestern University",
+    "Country": "United States of America",
+    "Total_Score": 83.1,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 20,
+    "University_Name": "University of Michigan",
+    "Country": "United States of America",
+    "Total_Score": 82.6,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 21,
+    "University_Name": "University of Toronto",
+    "Country": "Canada",
+    "Total_Score": 82.2,
+    "Year": "2013",
+    "country_id": 2
+  },
+  {
+    "World_Rank": 22,
+    "University_Name": "Carnegie Mellon University",
+    "Country": "United States of America",
+    "Total_Score": 81.5,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 23,
+    "University_Name": "Duke University",
+    "Country": "United States of America",
+    "Total_Score": 81.2,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 24,
+    "University_Name": "University of Washington",
+    "Country": "United States of America",
+    "Total_Score": 79.9,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 25,
+    "University_Name": "Georgia Institute of Technology",
+    "Country": "United States of America",
+    "Total_Score": 78.8,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 25,
+    "University_Name": "University of Texas at Austin",
+    "Country": "United States of America",
+    "Total_Score": 78.8,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 27,
+    "University_Name": "University of Tokyo",
+    "Country": "Japan",
+    "Total_Score": 78.3,
+    "Year": "2013",
+    "country_id": 7
+  },
+  {
+    "World_Rank": 28,
+    "University_Name": "University of Melbourne",
+    "Country": "Australia",
+    "Total_Score": 77.9,
+    "Year": "2013",
+    "country_id": 0
+  },
+  {
+    "World_Rank": 29,
+    "University_Name": "National University of Singapore",
+    "Country": "Singapore",
+    "Total_Score": 77.5,
+    "Year": "2013",
+    "country_id": 9
+  },
+  {
+    "World_Rank": 30,
+    "University_Name": "University of British Columbia",
+    "Country": "Canada",
+    "Total_Score": 77.3,
+    "Year": "2013",
+    "country_id": 2
+  },
+  {
+    "World_Rank": 31,
+    "University_Name": "University of Wisconsin-Madison",
+    "Country": "United States of America",
+    "Total_Score": 76.9,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 32,
+    "University_Name": "University of Edinburgh",
+    "Country": "United Kingdom",
+    "Total_Score": 76.1,
+    "Year": "2013",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 33,
+    "University_Name": "University of Illinois at Urbana-Champaign",
+    "Country": "United States of America",
+    "Total_Score": 75.8,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 34,
+    "University_Name": "McGill University",
+    "Country": "Canada",
+    "Total_Score": 75.7,
+    "Year": "2013",
+    "country_id": 2
+  },
+  {
+    "World_Rank": 35,
+    "University_Name": "University of California, Santa Barbara",
+    "Country": "United States of America",
+    "Total_Score": 75.6,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 35,
+    "University_Name": "University of Hong Kong",
+    "Country": "Hong Kong",
+    "Total_Score": 75.6,
+    "Year": "2013",
+    "country_id": 6
+  },
+  {
+    "World_Rank": 37,
+    "University_Name": "Australian National University",
+    "Country": "Australia",
+    "Total_Score": 75.4,
+    "Year": "2013",
+    "country_id": 0
+  },
+  {
+    "World_Rank": 38,
+    "University_Name": "University of California, San Diego",
+    "Country": "United States of America",
+    "Total_Score": 75.2,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 39,
+    "University_Name": "London School of Economics and Political Science",
+    "Country": "United Kingdom",
+    "Total_Score": 73.1,
+    "Year": "2013",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 40,
+    "University_Name": "\u00c3\u0089cole Polytechnique F\u00c3\u00a9d\u00c3\u00a9rale de Lausanne",
+    "Country": "Switzerland",
+    "Total_Score": 73,
+    "Year": "2013",
+    "country_id": 12
+  },
+  {
+    "World_Rank": 41,
+    "University_Name": "New York University",
+    "Country": "United States of America",
+    "Total_Score": 72.8,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 42,
+    "University_Name": "Karolinska Institute",
+    "Country": "Sweden",
+    "Total_Score": 72.4,
+    "Year": "2013",
+    "country_id": 11
+  },
+  {
+    "World_Rank": 42,
+    "University_Name": "University of North Carolina at Chapel Hill",
+    "Country": "United States of America",
+    "Total_Score": 72.4,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 44,
+    "University_Name": "University of California, Davis",
+    "Country": "United States of America",
+    "Total_Score": 71.8,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 44,
+    "University_Name": "Washington University in St Louis",
+    "Country": "United States of America",
+    "Total_Score": 71.8,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 46,
+    "University_Name": "Peking University",
+    "Country": "China",
+    "Total_Score": 70.7,
+    "Year": "2013",
+    "country_id": 3
+  },
+  {
+    "World_Rank": 47,
+    "University_Name": "University of Minnesota",
+    "Country": "United States of America",
+    "Total_Score": 70.5,
+    "Year": "2013",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 48,
+    "University_Name": "LMU Munich",
+    "Country": "Germany",
+    "Total_Score": 70.4,
+    "Year": "2013",
+    "country_id": 5
+  },
+  {
+    "World_Rank": 49,
+    "University_Name": "University of Manchester",
+    "Country": "United Kingdom",
+    "Total_Score": 70.1,
+    "Year": "2013",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 50,
+    "University_Name": "Pohang University of Science and Technology",
+    "Country": "South Korea",
+    "Total_Score": 69.4,
+    "Year": "2013",
+    "country_id": 10
+  },
+  {
+    "World_Rank": 1,
+    "University_Name": "California Institute of Technology",
+    "Country": "United States of America",
+    "Total_Score": 94.9,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 2,
+    "University_Name": "Harvard University",
+    "Country": "United States of America",
+    "Total_Score": 93.9,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 2,
+    "University_Name": "University of Oxford",
+    "Country": "United Kingdom",
+    "Total_Score": 93.9,
+    "Year": "2014",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 4,
+    "University_Name": "Stanford University",
+    "Country": "United States of America",
+    "Total_Score": 93.8,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 5,
+    "University_Name": "Massachusetts Institute of Technology",
+    "Country": "United States of America",
+    "Total_Score": 93,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 6,
+    "University_Name": "Princeton University",
+    "Country": "United States of America",
+    "Total_Score": 92.7,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 7,
+    "University_Name": "University of Cambridge",
+    "Country": "United Kingdom",
+    "Total_Score": 92.3,
+    "Year": "2014",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 8,
+    "University_Name": "University of California, Berkeley",
+    "Country": "United States of America",
+    "Total_Score": 89.8,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 9,
+    "University_Name": "University of Chicago",
+    "Country": "United States of America",
+    "Total_Score": 87.8,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 10,
+    "University_Name": "Imperial College London",
+    "Country": "United Kingdom",
+    "Total_Score": 87.5,
+    "Year": "2014",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 11,
+    "University_Name": "Yale University",
+    "Country": "United States of America",
+    "Total_Score": 87.4,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 12,
+    "University_Name": "University of California, Los Angeles",
+    "Country": "United States of America",
+    "Total_Score": 86.3,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 13,
+    "University_Name": "Columbia University",
+    "Country": "United States of America",
+    "Total_Score": 85.2,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 14,
+    "University_Name": "ETH Zurich \u00e2\u0080\u0093 Swiss Federal Institute of Technology Zurich",
+    "Country": "Switzerland",
+    "Total_Score": 84.5,
+    "Year": "2014",
+    "country_id": 12
+  },
+  {
+    "World_Rank": 15,
+    "University_Name": "Johns Hopkins University",
+    "Country": "United States of America",
+    "Total_Score": 83.7,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 16,
+    "University_Name": "University of Pennsylvania",
+    "Country": "United States of America",
+    "Total_Score": 81,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 17,
+    "University_Name": "Duke University",
+    "Country": "United States of America",
+    "Total_Score": 79.3,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 18,
+    "University_Name": "University of Michigan",
+    "Country": "United States of America",
+    "Total_Score": 79.2,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 19,
+    "University_Name": "Cornell University",
+    "Country": "United States of America",
+    "Total_Score": 79.1,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 20,
+    "University_Name": "University of Toronto",
+    "Country": "Canada",
+    "Total_Score": 78.3,
+    "Year": "2014",
+    "country_id": 2
+  },
+  {
+    "World_Rank": 21,
+    "University_Name": "University College London",
+    "Country": "United Kingdom",
+    "Total_Score": 77.6,
+    "Year": "2014",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 22,
+    "University_Name": "Northwestern University",
+    "Country": "United States of America",
+    "Total_Score": 77.1,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 23,
+    "University_Name": "University of Tokyo",
+    "Country": "Japan",
+    "Total_Score": 76.4,
+    "Year": "2014",
+    "country_id": 7
+  },
+  {
+    "World_Rank": 24,
+    "University_Name": "Carnegie Mellon University",
+    "Country": "United States of America",
+    "Total_Score": 76,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 25,
+    "University_Name": "University of Washington",
+    "Country": "United States of America",
+    "Total_Score": 73.4,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 26,
+    "University_Name": "National University of Singapore",
+    "Country": "Singapore",
+    "Total_Score": 72.4,
+    "Year": "2014",
+    "country_id": 9
+  },
+  {
+    "World_Rank": 27,
+    "University_Name": "University of Texas at Austin",
+    "Country": "United States of America",
+    "Total_Score": 72.2,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 28,
+    "University_Name": "Georgia Institute of Technology",
+    "Country": "United States of America",
+    "Total_Score": 71.6,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 29,
+    "University_Name": "University of Illinois at Urbana-Champaign",
+    "Country": "United States of America",
+    "Total_Score": 71.4,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 30,
+    "University_Name": "University of Wisconsin-Madison",
+    "Country": "United States of America",
+    "Total_Score": 71.1,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 31,
+    "University_Name": "University of British Columbia",
+    "Country": "Canada",
+    "Total_Score": 70.8,
+    "Year": "2014",
+    "country_id": 2
+  },
+  {
+    "World_Rank": 32,
+    "University_Name": "London School of Economics and Political Science",
+    "Country": "United Kingdom",
+    "Total_Score": 69.8,
+    "Year": "2014",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 33,
+    "University_Name": "University of California, Santa Barbara",
+    "Country": "United States of America",
+    "Total_Score": 68.4,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 34,
+    "University_Name": "University of Melbourne",
+    "Country": "Australia",
+    "Total_Score": 68.2,
+    "Year": "2014",
+    "country_id": 0
+  },
+  {
+    "World_Rank": 35,
+    "University_Name": "McGill University",
+    "Country": "Canada",
+    "Total_Score": 68.1,
+    "Year": "2014",
+    "country_id": 2
+  },
+  {
+    "World_Rank": 36,
+    "University_Name": "Karolinska Institute",
+    "Country": "Sweden",
+    "Total_Score": 67.8,
+    "Year": "2014",
+    "country_id": 11
+  },
+  {
+    "World_Rank": 37,
+    "University_Name": "\u00c3\u0089cole Polytechnique F\u00c3\u00a9d\u00c3\u00a9rale de Lausanne",
+    "Country": "Switzerland",
+    "Total_Score": 67.7,
+    "Year": "2014",
+    "country_id": 12
+  },
+  {
+    "World_Rank": 38,
+    "University_Name": "King\u00e2\u0080\u0099s College London",
+    "Country": "United Kingdom",
+    "Total_Score": 67.6,
+    "Year": "2014",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 39,
+    "University_Name": "University of Edinburgh",
+    "Country": "United Kingdom",
+    "Total_Score": 67.5,
+    "Year": "2014",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 40,
+    "University_Name": "New York University",
+    "Country": "United States of America",
+    "Total_Score": 67.4,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 40,
+    "University_Name": "University of California, San Diego",
+    "Country": "United States of America",
+    "Total_Score": 67.4,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 42,
+    "University_Name": "Washington University in St Louis",
+    "Country": "United States of America",
+    "Total_Score": 67.2,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 43,
+    "University_Name": "University of Hong Kong",
+    "Country": "Hong Kong",
+    "Total_Score": 65.3,
+    "Year": "2014",
+    "country_id": 6
+  },
+  {
+    "World_Rank": 44,
+    "University_Name": "Seoul National University",
+    "Country": "South Korea",
+    "Total_Score": 65.2,
+    "Year": "2014",
+    "country_id": 10
+  },
+  {
+    "World_Rank": 45,
+    "University_Name": "Peking University",
+    "Country": "China",
+    "Total_Score": 65,
+    "Year": "2014",
+    "country_id": 3
+  },
+  {
+    "World_Rank": 46,
+    "University_Name": "University of Minnesota",
+    "Country": "United States of America",
+    "Total_Score": 64.9,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 47,
+    "University_Name": "University of North Carolina at Chapel Hill",
+    "Country": "United States of America",
+    "Total_Score": 64.5,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 48,
+    "University_Name": "Australian National University",
+    "Country": "Australia",
+    "Total_Score": 64.4,
+    "Year": "2014",
+    "country_id": 0
+  },
+  {
+    "World_Rank": 49,
+    "University_Name": "Pennsylvania State University",
+    "Country": "United States of America",
+    "Total_Score": 64.2,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 50,
+    "University_Name": "Boston University",
+    "Country": "United States of America",
+    "Total_Score": 63.5,
+    "Year": "2014",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 50,
+    "University_Name": "Tsinghua University",
+    "Country": "China",
+    "Total_Score": 63.5,
+    "Year": "2014",
+    "country_id": 3
+  },
+  {
+    "World_Rank": 1,
+    "University_Name": "California Institute of Technology",
+    "Country": "United States of America",
+    "Total_Score": 94.3,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 2,
+    "University_Name": "Harvard University",
+    "Country": "United States of America",
+    "Total_Score": 93.3,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 3,
+    "University_Name": "University of Oxford",
+    "Country": "United Kingdom",
+    "Total_Score": 93.2,
+    "Year": "2015",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 4,
+    "University_Name": "Stanford University",
+    "Country": "United States of America",
+    "Total_Score": 92.9,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 5,
+    "University_Name": "University of Cambridge",
+    "Country": "United Kingdom",
+    "Total_Score": 92,
+    "Year": "2015",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 6,
+    "University_Name": "Massachusetts Institute of Technology",
+    "Country": "United States of America",
+    "Total_Score": 91.9,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 7,
+    "University_Name": "Princeton University",
+    "Country": "United States of America",
+    "Total_Score": 90.9,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 8,
+    "University_Name": "University of California, Berkeley",
+    "Country": "United States of America",
+    "Total_Score": 89.5,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 9,
+    "University_Name": "Imperial College London",
+    "Country": "United Kingdom",
+    "Total_Score": 87.5,
+    "Year": "2015",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 9,
+    "University_Name": "Yale University",
+    "Country": "United States of America",
+    "Total_Score": 87.5,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 11,
+    "University_Name": "University of Chicago",
+    "Country": "United States of America",
+    "Total_Score": 87.1,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 12,
+    "University_Name": "University of California, Los Angeles",
+    "Country": "United States of America",
+    "Total_Score": 85.5,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 13,
+    "University_Name": "ETH Zurich \u00e2\u0080\u0093 Swiss Federal Institute of Technology Zurich",
+    "Country": "Switzerland",
+    "Total_Score": 84.6,
+    "Year": "2015",
+    "country_id": 12
+  },
+  {
+    "World_Rank": 14,
+    "University_Name": "Columbia University",
+    "Country": "United States of America",
+    "Total_Score": 84.4,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 15,
+    "University_Name": "Johns Hopkins University",
+    "Country": "United States of America",
+    "Total_Score": 83,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 16,
+    "University_Name": "University of Pennsylvania",
+    "Country": "United States of America",
+    "Total_Score": 81,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 17,
+    "University_Name": "University of Michigan",
+    "Country": "United States of America",
+    "Total_Score": 80.9,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 18,
+    "University_Name": "Duke University",
+    "Country": "United States of America",
+    "Total_Score": 79.9,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 19,
+    "University_Name": "Cornell University",
+    "Country": "United States of America",
+    "Total_Score": 79.4,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 20,
+    "University_Name": "University of Toronto",
+    "Country": "Canada",
+    "Total_Score": 79.3,
+    "Year": "2015",
+    "country_id": 2
+  },
+  {
+    "World_Rank": 21,
+    "University_Name": "Northwestern University",
+    "Country": "United States of America",
+    "Total_Score": 79.2,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 22,
+    "University_Name": "University College London",
+    "Country": "United Kingdom",
+    "Total_Score": 78.7,
+    "Year": "2015",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 23,
+    "University_Name": "University of Tokyo",
+    "Country": "Japan",
+    "Total_Score": 76.1,
+    "Year": "2015",
+    "country_id": 7
+  },
+  {
+    "World_Rank": 24,
+    "University_Name": "Carnegie Mellon University",
+    "Country": "United States of America",
+    "Total_Score": 74.3,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 25,
+    "University_Name": "National University of Singapore",
+    "Country": "Singapore",
+    "Total_Score": 73.3,
+    "Year": "2015",
+    "country_id": 9
+  },
+  {
+    "World_Rank": 26,
+    "University_Name": "University of Washington",
+    "Country": "United States of America",
+    "Total_Score": 73.2,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 27,
+    "University_Name": "Georgia Institute of Technology",
+    "Country": "United States of America",
+    "Total_Score": 72.8,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 28,
+    "University_Name": "University of Texas at Austin",
+    "Country": "United States of America",
+    "Total_Score": 72.3,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 29,
+    "University_Name": "LMU Munich",
+    "Country": "Germany",
+    "Total_Score": 71.9,
+    "Year": "2015",
+    "country_id": 5
+  },
+  {
+    "World_Rank": 29,
+    "University_Name": "University of Illinois at Urbana-Champaign",
+    "Country": "United States of America",
+    "Total_Score": 71.9,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 29,
+    "University_Name": "University of Wisconsin-Madison",
+    "Country": "United States of America",
+    "Total_Score": 71.9,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 32,
+    "University_Name": "University of British Columbia",
+    "Country": "Canada",
+    "Total_Score": 71.8,
+    "Year": "2015",
+    "country_id": 2
+  },
+  {
+    "World_Rank": 33,
+    "University_Name": "University of Melbourne",
+    "Country": "Australia",
+    "Total_Score": 71.2,
+    "Year": "2015",
+    "country_id": 0
+  },
+  {
+    "World_Rank": 34,
+    "University_Name": "London School of Economics and Political Science",
+    "Country": "United Kingdom",
+    "Total_Score": 70.9,
+    "Year": "2015",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 34,
+    "University_Name": "\u00c3\u0089cole Polytechnique F\u00c3\u00a9d\u00c3\u00a9rale de Lausanne",
+    "Country": "Switzerland",
+    "Total_Score": 70.9,
+    "Year": "2015",
+    "country_id": 12
+  },
+  {
+    "World_Rank": 36,
+    "University_Name": "University of Edinburgh",
+    "Country": "United Kingdom",
+    "Total_Score": 70.4,
+    "Year": "2015",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 37,
+    "University_Name": "University of California, Santa Barbara",
+    "Country": "United States of America",
+    "Total_Score": 70,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 38,
+    "University_Name": "New York University",
+    "Country": "United States of America",
+    "Total_Score": 69.9,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 39,
+    "University_Name": "McGill University",
+    "Country": "Canada",
+    "Total_Score": 69.6,
+    "Year": "2015",
+    "country_id": 2
+  },
+  {
+    "World_Rank": 40,
+    "University_Name": "King\u00e2\u0080\u0099s College London",
+    "Country": "United Kingdom",
+    "Total_Score": 69.4,
+    "Year": "2015",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 41,
+    "University_Name": "University of California, San Diego",
+    "Country": "United States of America",
+    "Total_Score": 68.6,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 42,
+    "University_Name": "Washington University in St Louis",
+    "Country": "United States of America",
+    "Total_Score": 67.8,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 43,
+    "University_Name": "University of Hong Kong",
+    "Country": "Hong Kong",
+    "Total_Score": 67.5,
+    "Year": "2015",
+    "country_id": 6
+  },
+  {
+    "World_Rank": 44,
+    "University_Name": "Karolinska Institute",
+    "Country": "Sweden",
+    "Total_Score": 66.8,
+    "Year": "2015",
+    "country_id": 11
+  },
+  {
+    "World_Rank": 45,
+    "University_Name": "Australian National University",
+    "Country": "Australia",
+    "Total_Score": 66.5,
+    "Year": "2015",
+    "country_id": 0
+  },
+  {
+    "World_Rank": 46,
+    "University_Name": "University of Minnesota",
+    "Country": "United States of America",
+    "Total_Score": 65.9,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 46,
+    "University_Name": "University of North Carolina at Chapel Hill",
+    "Country": "United States of America",
+    "Total_Score": 65.9,
+    "Year": "2015",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 48,
+    "University_Name": "Peking University",
+    "Country": "China",
+    "Total_Score": 65.2,
+    "Year": "2015",
+    "country_id": 3
+  },
+  {
+    "World_Rank": 49,
+    "University_Name": "Tsinghua University",
+    "Country": "China",
+    "Total_Score": 65.1,
+    "Year": "2015",
+    "country_id": 3
+  },
+  {
+    "World_Rank": 50,
+    "University_Name": "Seoul National University",
+    "Country": "South Korea",
+    "Total_Score": 64.8,
+    "Year": "2015",
+    "country_id": 10
+  },
+  {
+    "World_Rank": 1,
+    "University_Name": "California Institute of Technology",
+    "Country": "United States of America",
+    "Total_Score": 95.2,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 2,
+    "University_Name": "University of Oxford",
+    "Country": "United Kingdom",
+    "Total_Score": 94.2,
+    "Year": "2016",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 3,
+    "University_Name": "Stanford University",
+    "Country": "United States of America",
+    "Total_Score": 93.9,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 4,
+    "University_Name": "University of Cambridge",
+    "Country": "United Kingdom",
+    "Total_Score": 92.8,
+    "Year": "2016",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 5,
+    "University_Name": "Massachusetts Institute of Technology",
+    "Country": "United States of America",
+    "Total_Score": 92,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 6,
+    "University_Name": "Harvard University",
+    "Country": "United States of America",
+    "Total_Score": 91.6,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 7,
+    "University_Name": "Princeton University",
+    "Country": "United States of America",
+    "Total_Score": 90.1,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 8,
+    "University_Name": "Imperial College London",
+    "Country": "United Kingdom",
+    "Total_Score": 89.1,
+    "Year": "2016",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 9,
+    "University_Name": "ETH Zurich \u00e2\u0080\u0093 Swiss Federal Institute of Technology Zurich",
+    "Country": "Switzerland",
+    "Total_Score": 88.3,
+    "Year": "2016",
+    "country_id": 12
+  },
+  {
+    "World_Rank": 10,
+    "University_Name": "University of Chicago",
+    "Country": "United States of America",
+    "Total_Score": 87.9,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 11,
+    "University_Name": "Johns Hopkins University",
+    "Country": "United States of America",
+    "Total_Score": 87.6,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 12,
+    "University_Name": "Yale University",
+    "Country": "United States of America",
+    "Total_Score": 87.4,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 13,
+    "University_Name": "University of California, Berkeley",
+    "Country": "United States of America",
+    "Total_Score": 87.2,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 14,
+    "University_Name": "University College London",
+    "Country": "United Kingdom",
+    "Total_Score": 87.1,
+    "Year": "2016",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 15,
+    "University_Name": "Columbia University",
+    "Country": "United States of America",
+    "Total_Score": 86.1,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 16,
+    "University_Name": "University of California, Los Angeles",
+    "Country": "United States of America",
+    "Total_Score": 85.8,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 17,
+    "University_Name": "University of Pennsylvania",
+    "Country": "United States of America",
+    "Total_Score": 85.2,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 18,
+    "University_Name": "Cornell University",
+    "Country": "United States of America",
+    "Total_Score": 84,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 19,
+    "University_Name": "University of Toronto",
+    "Country": "Canada",
+    "Total_Score": 83.9,
+    "Year": "2016",
+    "country_id": 2
+  },
+  {
+    "World_Rank": 20,
+    "University_Name": "Duke University",
+    "Country": "United States of America",
+    "Total_Score": 82.7,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 21,
+    "University_Name": "University of Michigan",
+    "Country": "United States of America",
+    "Total_Score": 82.4,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 22,
+    "University_Name": "Carnegie Mellon University",
+    "Country": "United States of America",
+    "Total_Score": 82.3,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 23,
+    "University_Name": "London School of Economics and Political Science",
+    "Country": "United Kingdom",
+    "Total_Score": 81.3,
+    "Year": "2016",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 24,
+    "University_Name": "University of Edinburgh",
+    "Country": "United Kingdom",
+    "Total_Score": 80.3,
+    "Year": "2016",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 25,
+    "University_Name": "Northwestern University",
+    "Country": "United States of America",
+    "Total_Score": 79.5,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 26,
+    "University_Name": "National University of Singapore",
+    "Country": "Singapore",
+    "Total_Score": 79.2,
+    "Year": "2016",
+    "country_id": 9
+  },
+  {
+    "World_Rank": 27,
+    "University_Name": "King\u00e2\u0080\u0099s College London",
+    "Country": "United Kingdom",
+    "Total_Score": 78.2,
+    "Year": "2016",
+    "country_id": 13
+  },
+  {
+    "World_Rank": 28,
+    "University_Name": "Karolinska Institute",
+    "Country": "Sweden",
+    "Total_Score": 77.5,
+    "Year": "2016",
+    "country_id": 11
+  },
+  {
+    "World_Rank": 29,
+    "University_Name": "LMU Munich",
+    "Country": "Germany",
+    "Total_Score": 77.3,
+    "Year": "2016",
+    "country_id": 5
+  },
+  {
+    "World_Rank": 30,
+    "University_Name": "New York University",
+    "Country": "United States of America",
+    "Total_Score": 77.2,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 31,
+    "University_Name": "\u00c3\u0089cole Polytechnique F\u00c3\u00a9d\u00c3\u00a9rale de Lausanne",
+    "Country": "Switzerland",
+    "Total_Score": 76.1,
+    "Year": "2016",
+    "country_id": 12
+  },
+  {
+    "World_Rank": 32,
+    "University_Name": "University of Washington",
+    "Country": "United States of America",
+    "Total_Score": 75.6,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 33,
+    "University_Name": "University of Melbourne",
+    "Country": "Australia",
+    "Total_Score": 75.4,
+    "Year": "2016",
+    "country_id": 0
+  },
+  {
+    "World_Rank": 34,
+    "University_Name": "University of British Columbia",
+    "Country": "Canada",
+    "Total_Score": 75.3,
+    "Year": "2016",
+    "country_id": 2
+  },
+  {
+    "World_Rank": 35,
+    "University_Name": "KU Leuven",
+    "Country": "Belgium",
+    "Total_Score": 74.8,
+    "Year": "2016",
+    "country_id": 1
+  },
+  {
+    "World_Rank": 36,
+    "University_Name": "University of Illinois at Urbana-Champaign",
+    "Country": "United States of America",
+    "Total_Score": 74.5,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 37,
+    "University_Name": "Heidelberg University",
+    "Country": "Germany",
+    "Total_Score": 74.4,
+    "Year": "2016",
+    "country_id": 5
+  },
+  {
+    "World_Rank": 38,
+    "University_Name": "McGill University",
+    "Country": "Canada",
+    "Total_Score": 72.6,
+    "Year": "2016",
+    "country_id": 2
+  },
+  {
+    "World_Rank": 39,
+    "University_Name": "University of California, San Diego",
+    "Country": "United States of America",
+    "Total_Score": 72.2,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 39,
+    "University_Name": "University of California, Santa Barbara",
+    "Country": "United States of America",
+    "Total_Score": 72.2,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 41,
+    "University_Name": "Georgia Institute of Technology",
+    "Country": "United States of America",
+    "Total_Score": 72.1,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 42,
+    "University_Name": "Peking University",
+    "Country": "China",
+    "Total_Score": 72,
+    "Year": "2016",
+    "country_id": 3
+  },
+  {
+    "World_Rank": 43,
+    "University_Name": "University of Tokyo",
+    "Country": "Japan",
+    "Total_Score": 71.1,
+    "Year": "2016",
+    "country_id": 7
+  },
+  {
+    "World_Rank": 44,
+    "University_Name": "University of California, Davis",
+    "Country": "United States of America",
+    "Total_Score": 71,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 44,
+    "University_Name": "University of Hong Kong",
+    "Country": "Hong Kong",
+    "Total_Score": 71,
+    "Year": "2016",
+    "country_id": 6
+  },
+  {
+    "World_Rank": 46,
+    "University_Name": "University of Texas at Austin",
+    "Country": "United States of America",
+    "Total_Score": 70.3,
+    "Year": "2016",
+    "country_id": 14
+  },
+  {
+    "World_Rank": 47,
+    "University_Name": "Tsinghua University",
+    "Country": "China",
+    "Total_Score": 70,
+    "Year": "2016",
+    "country_id": 3
+  },
+  {
+    "World_Rank": 47,
+    "University_Name": "Wageningen University and Research Center",
+    "Country": "Netherlands",
+    "Total_Score": 70,
+    "Year": "2016",
+    "country_id": 8
+  },
+  {
+    "World_Rank": 49,
+    "University_Name": "Humboldt University of Berlin",
+    "Country": "Germany",
+    "Total_Score": 69.9,
+    "Year": "2016",
+    "country_id": 5
+  },
+  {
+    "World_Rank": 50,
+    "University_Name": "University of Wisconsin-Madison",
+    "Country": "United States of America",
+    "Total_Score": 69.7,
+    "Year": "2016",
+    "country_id": 14
+  }
+]
